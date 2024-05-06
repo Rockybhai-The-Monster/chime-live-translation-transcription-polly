@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T07:12:50.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="kkbdVpP_8Q0l2fczIFOd" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T07:15:55.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EXT8AfWkXZ3pNdVHsFXC" version="24.3.1" type="github">
   <diagram name="Page-1" id="o0LcYzsVzfWZ8x-WxZuV">
-    <mxGraphModel dx="2150" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1229" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,10 +40,16 @@
         <mxCell id="dIP-NNL8l3jh8cJKC_hJ-9" value="3 users join meeting room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-15" target="dIP-NNL8l3jh8cJKC_hJ-2">
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-31" target="dIP-NNL8l3jh8cJKC_hJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-15" target="dIP-NNL8l3jh8cJKC_hJ-4">
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-38" target="dIP-NNL8l3jh8cJKC_hJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-15" target="dIP-NNL8l3jh8cJKC_hJ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-15" target="dIP-NNL8l3jh8cJKC_hJ-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dIP-NNL8l3jh8cJKC_hJ-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Meeting Language&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -63,9 +69,6 @@
             <mxPoint x="40" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.591;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-15" target="dIP-NNL8l3jh8cJKC_hJ-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dIP-NNL8l3jh8cJKC_hJ-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;If user 1 clicks transcription button then for meeting language now is English&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;if we need accurate output for transcription then for all three users need to speak English language&lt;br&gt;&lt;br&gt;if all user speak English language then transcription working with user2 and user3 according his language&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="560" width="730" height="80" as="geometry" />
         </mxCell>
@@ -73,7 +76,22 @@
           <mxGeometry x="40" y="678" width="690" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dIP-NNL8l3jh8cJKC_hJ-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Blocker is we can&#39;t select language with user wise we have option for meeting wise only&lt;br&gt;&lt;br&gt;I have check meet, skype and zoom all supported meeting wise not provide user wise transcripiton&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="60" y="770" width="730" height="100" as="geometry" />
+          <mxGeometry x="60" y="770" width="700" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-31" value="&lt;b&gt;Speaking Language is English&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-38" value="&lt;b&gt;Speaking Language is English&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-41" value="&lt;b&gt;Speaking Language is English&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.498;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-15" target="dIP-NNL8l3jh8cJKC_hJ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dIP-NNL8l3jh8cJKC_hJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.588;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dIP-NNL8l3jh8cJKC_hJ-41" target="dIP-NNL8l3jh8cJKC_hJ-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
